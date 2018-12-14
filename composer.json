@@ -1,0 +1,18 @@
+{
+    "name": "edege/webscraper",
+    "description": "PHP Web Scraper",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Ertugrul Dege",
+            "email": "ertugruldege@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "edege": "src/"
+        }
+    }
+}
