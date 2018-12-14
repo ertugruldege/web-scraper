@@ -1,7 +1,9 @@
 {
     "name": "edege/webscraper",
     "description": "PHP Web Scraper",
-    "license": "mit",
+    "license": "MIT",
+    "keywords": ["scraper"],
+
     "authors": [
         {
             "name": "Ertugrul Dege",

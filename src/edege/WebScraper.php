@@ -2,9 +2,9 @@
 namespace edege;
 class WebScraper
 {
-    public static function world()
+    public static function url()
     {
-        return 'Hello World, Composer!';
-        
+
+
     }
 }
