@@ -23,15 +23,10 @@
         "symfony/var-dumper": "Pretty print complex values better with var-dumper available",
         "whoops/soap": "Formats errors as SOAP responses"
     },
-    "autoload": {
-        "psr-4": {
-            "edege": "src/"
-
-        }
-    },
     "autoload-dev": {
         "psr-4": {
-            "Whoops\\": "tests/Whoops/"
+            "Whoops\\": "tests/Whoops/",
+            "edege": "src/"
         }
     },
     "extra": {
